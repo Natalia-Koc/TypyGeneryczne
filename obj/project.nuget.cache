@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1iqRBVa3hm7JrJDVP+ilfTXEoJwzrY4XG+Ej1t0pzMnq/uRdc9hPATqaopQfb50f+1AV1YLdPeUMuIj6QBXz8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tala\\source\\repos\\TemplatesForTypesAndMethods(5)\\TemplatesForTypesAndMethods(5).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
